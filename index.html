@@ -12,7 +12,7 @@
 <meta property="og:type" content="website">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
- {"@type":"Organization","@id":"https://automateedge.ai/#org","name":"AutomateEdge","url":"https://automateedge.ai/","logo":"https://automateedge.ai/assets/favicon.svg","email":"kyansukhram@gmail.com"},
+ {"@type":"Organization","@id":"https://automateedge.ai/#org","name":"AutomateEdge","url":"https://automateedge.ai/","logo":"https://automateedge.ai/assets/favicon.svg","email":"kyan@automateedge.ai"},
  {"@type":"WebSite","@id":"https://automateedge.ai/#site","name":"AutomateEdge","url":"https://automateedge.ai/","publisher":{"@id":"https://automateedge.ai/#org"}},
  {"@type":"Service","name":"Appointment setting for IT support firms","serviceType":"B2B appointment setting","provider":{"@id":"https://automateedge.ai/#org"},"areaServed":{"@type":"Country","name":"United Kingdom"},"offers":{"@type":"Offer","price":"150","priceCurrency":"GBP","description":"Per meeting held. First 3 free."}}
 ]}
@@ -363,7 +363,7 @@ footer .row>div{max-width:520px}
   <div class="wrap row">
     <div>
       <p><strong>AutomateEdge</strong> is a trading name of Kyan Sukhram, sole trader, Woking, Surrey.</p>
-      <p>Email: <a href="mailto:kyansukhram@gmail.com">kyansukhram@gmail.com</a></p>
+      <p>Email: <a href="mailto:kyan@automateedge.ai">kyan@automateedge.ai</a></p>
     </div>
     <div>
       <p>Privacy: what you send through the form is delivered to our email by FormSubmit and used only to reply to you. We don't sell or share it. Ask us any time to delete it.</p>
@@ -391,9 +391,9 @@ footer .row>div{max-width:520px}
       .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
       .then(function (res) {
         if (res.ok && String(res.j.success) === 'true') { f.reset(); show('Thanks. Kyan will reply within one working day.', true); }
-        else { console.error('Enquiry error', res.j); show("That didn't send. Email kyansukhram@gmail.com instead.", false); }
+        else { console.error('Enquiry error', res.j); show("That didn't send. Email kyan@automateedge.ai instead.", false); }
       })
-      .catch(function (err) { console.error('Enquiry network error', err); show('No connection. Try again, or email kyansukhram@gmail.com.', false); })
+      .catch(function (err) { console.error('Enquiry network error', err); show('No connection. Try again, or email kyan@automateedge.ai.', false); })
       .finally(function () { btn.disabled = false; btn.innerHTML = label; });
   });
 })();
