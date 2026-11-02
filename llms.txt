@@ -1,0 +1,14 @@
+# AutomateEdge
+
+> AutomateEdge (automateedge.ai) is a UK appointment-setting service for IT support companies (managed service providers, MSPs). We find local businesses with 5 to 50 staff, offer them a free IT and security check with the IT firm, and book the meeting into the IT firm's calendar. Run by Kyan Sukhram in Woking, Surrey. Not related to AutomationEdge (automation software).
+
+## Key facts
+- Price: £150 per meeting that actually happens; first meeting free; no retainer or long-term contract.
+- Who it's for: IT support / managed IT companies in the UK that want more local clients.
+- How: research from public sources (Companies House, websites), personalised email and phone outreach that follows UK PECR/GDPR rules, meeting booked with a short brief and reminders.
+- One IT firm per area.
+- Contact: kyan@automateedge.ai
+
+## Pages
+- [Home](https://automateedge.ai/): how it works, pricing, FAQ, enquiry form
+- [Privacy notice](https://automateedge.ai/privacy.html)
