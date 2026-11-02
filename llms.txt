@@ -11,4 +11,5 @@
 
 ## Pages
 - [Home](https://automateedge.ai/): how it works, pricing, FAQ, enquiry form
+- [Guide: how small IT support firms win new clients](https://automateedge.ai/win-it-support-clients.html): channels, what gets a meeting, UK PECR rules, the maths
 - [Privacy notice](https://automateedge.ai/privacy.html)
